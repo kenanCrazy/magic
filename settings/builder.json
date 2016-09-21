@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.magic",
+  "startScene": "fac0c97b-7cdd-40b3-a553-b03a7f0441a4",
+  "title": "model1",
+  "webOrientation": "auto"
+}
